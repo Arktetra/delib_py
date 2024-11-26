@@ -1,0 +1,6 @@
+[project]
+name = "delib_py"
+version = "0.1"
+
+[tool.setuptools]
+packages = ["delib_py"]
